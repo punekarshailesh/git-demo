@@ -1,2 +1,3 @@
 # git-demo
-Understanding the git
+Understanding the git & github.
+Author - Shailesh Madne
